@@ -3,5 +3,5 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftSandboxModel"
+    name: "Swift-Sandbox-Model"
 )
