@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct Assignment: Codable {
+public struct Assignment: Codable {
 	let id: String
 	let title: String
 	let isDone: Bool
